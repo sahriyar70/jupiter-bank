@@ -1,0 +1,37 @@
+body{
+    padding: 100px;
+}
+.submit-area{
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+#janu{
+    color: orangered;
+    
+}
+#teransection-area{
+    display: none;
+}
+
+.Deposit{
+    background-color: rgb(247, 36, 124);
+}
+
+.withdraw{
+    background-color: blueviolet;
+}
+.Balance{
+    background-color: rgb(245, 70, 26);
+}
+
+.stuas{
+    color: white;
+    margin: 0 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.row{
+    padding: 70px;
+}
